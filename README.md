@@ -1,4 +1,4 @@
-# test auth in this api in post man
+# test auth in this api in postman
 <hr>
 
 <ol>
