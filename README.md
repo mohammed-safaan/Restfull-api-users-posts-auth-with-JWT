@@ -1,7 +1,6 @@
 # test auth in this api in post man
-``
-``
-## 1- "/register" path test it by sending request with the post method and request body fill it with the right schema 
+<hr>
+## ``1-``"/register" path test it by sending request with the post method and request body fill it with the right schema 
 
 ## 2- "/login" path - test it by sending request with the post method and request body fill it with the user email and password 
 
